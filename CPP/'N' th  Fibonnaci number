@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+//fuction returns the nth number in the fibonacci series
+int fib(int n)
+{
+    int ans;
+    if(n==0)   //here i am considering  zero based indexing
+    {
+        return 0;
+    }
+    else if(n==1)
+    {
+        return 1;
+    }
+
+    ans=fib(n-1)+fib(n-2);
+
+    return ans;
+}
