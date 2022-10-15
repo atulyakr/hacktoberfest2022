@@ -12,7 +12,7 @@
 <br>
   
 | Name | Github Link | Email ID |
-| ------|----------|---------- |
+| Atulya Kumar|a href="https://github.com/atulyakr">Atulya Kumar</a>| a href="mailto:atulyakr.2003@gmail.com">E-Mail</a>|
 | Aman Kumar | <a href="https://github.com/king04aman/">Aman Kumar</a> | <a href="mailto:aman.kumar@esportzvio.com">E-Mail</a> |
 | Sarwagya Singh | <a href="https://github.com/0xsarwagya/">Sarwagya Singh</a> | <a href="mailto:sarwagya.singh@esportzvio.com">E-Mail</a> |
 | Prashant Kumar | <a href="https://github.com/prashantty/">Prashant Kumar</a> | <a href="mailto:prashantty9991@gmail.com">E-Mail</a> |
